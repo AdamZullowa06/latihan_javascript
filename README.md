@@ -11,5 +11,8 @@ Urutan dimulai dari :
 - switch
 - star
 - suitjawa
+- volume
+- parameter
+- refactor
 
 Terima kasih, semoga bermanfaat.
