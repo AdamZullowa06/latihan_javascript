@@ -14,5 +14,6 @@ Urutan dimulai dari :
 - volume
 - parameter
 - refactor
+- scope
 
 Terima kasih, semoga bermanfaat.
