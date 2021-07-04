@@ -1,6 +1,8 @@
-Latihan javascript ini berdasarkan tutorial/latihan dari video dasar pemrograman javascript WEB Programming UNPAS.
+# Latihan Javascript
 
-Urutan dimulai dari :
+Latihan ini dibuat berdasarkan hasil implementasi dari video **Dasar Pemrograman Javascript WEB Programming UNPAS**.
+
+**List:**
 
 - angkot1
 - angkot2
@@ -17,3 +19,7 @@ Urutan dimulai dari :
 - scope
 
 Terima kasih, semoga bermanfaat.
+
+## Kontak Saya
+
+kamu bisa melihat aplikasi/program yang saya telah buat di website <a href="https://adamzullowa06.github.io/">Adam Zullowa</a>. Terima kasih.
