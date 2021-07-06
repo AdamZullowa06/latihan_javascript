@@ -20,6 +20,7 @@ Latihan ini dibuat berdasarkan hasil implementasi dari video **Dasar Pemrograman
 - rekursif
 - declaration
 - expression
+- array
 
 Terima kasih, semoga bermanfaat.
 
