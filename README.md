@@ -18,6 +18,7 @@ Latihan ini dibuat berdasarkan hasil implementasi dari video **Dasar Pemrograman
 - refactor
 - scope
 - rekursif
+- declaration
 
 Terima kasih, semoga bermanfaat.
 
