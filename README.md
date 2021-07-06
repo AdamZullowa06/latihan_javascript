@@ -19,6 +19,7 @@ Latihan ini dibuat berdasarkan hasil implementasi dari video **Dasar Pemrograman
 - scope
 - rekursif
 - declaration
+- expression
 
 Terima kasih, semoga bermanfaat.
 
