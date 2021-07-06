@@ -17,6 +17,7 @@ Latihan ini dibuat berdasarkan hasil implementasi dari video **Dasar Pemrograman
 - parameter
 - refactor
 - scope
+- rekursif
 
 Terima kasih, semoga bermanfaat.
 
