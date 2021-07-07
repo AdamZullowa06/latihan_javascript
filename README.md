@@ -21,6 +21,7 @@ Latihan ini dibuat berdasarkan hasil implementasi dari video **Dasar Pemrograman
 - declaration
 - expression
 - array
+- manipulasi array
 
 Terima kasih, semoga bermanfaat.
 
