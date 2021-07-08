@@ -38,3 +38,35 @@ var arr6 = ['Adam', 'Ravi', 'Bagus', 'Putri'];
 arr6.unshift('Mega');
 // arr6.shift();
 console.log('6. Method unshift & shift \n', arr6.join(', '));
+
+// 4. splice (pertengahan elemen)
+// format : splice(indexAwal, mauDihapusBerapa, elemenBaru1, elemenBaru2, ...)
+var arr7 = ['Adam', 'Ravi', 'Bagus', 'Putri'];
+arr7.splice(1, 2, 'Mega', 'Alfiana')
+console.log('7. Method splice \n', arr7.join(', '));
+
+// 5. slice (pertengahan elemen)
+// format : slice(indexAwal, indexAkhir)
+var arr8 = ['Adam', 'Ravi', 'Bagus', 'Putri'];
+var arr9 = arr8.slice(1, 3, 'Mega', 'Alfiana')
+console.log('8. Method slice \n', arr9.join(', '));
+
+// 6. foreach
+console.log("9. Method foreach");
+var angka = [1,2,3,4,5,6,7,8];
+var nama = ['Adam', 'Ravi', 'Bagus', 'Putri'];
+// foreach untuk elemen saja
+angka.forEach(function(e) {
+    console.log(e);
+});
+// foreach untuk elemen dan index
+nama.forEach(function(e,i) {
+    console.log('Mahasiswa ke-'+ (i+1) + ' : ' +   e);
+});
+
+// 7. map
+var angka1 = [1,2,3,4,5,6,7,8];
+var angka2 = angka1.map(function(e) {
+    return e * 2;
+});
+console.log('10. Method map \n', angka2.join(', '));
