@@ -70,3 +70,10 @@ var angka2 = angka1.map(function(e) {
     return e * 2;
 });
 console.log('10. Method map \n', angka2.join(', '));
+
+// 8. sort
+var angka3 = [20,8,5,4,7,10,6,1,3,2];
+console.log('11. Method sort \n', angka3.join(', '), '\n=>', 
+angka3.sort(function(a,b) {
+    return a-b;
+}).join(', '));
