@@ -28,6 +28,7 @@ Latihan ini dibuat berdasarkan hasil implementasi dari video **Dasar Pemrograman
   - shift & unshift
   - splice & slice
   - foreach & map
+  - sort
 
 Terima kasih, semoga bermanfaat.
 
