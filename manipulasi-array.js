@@ -77,3 +77,16 @@ console.log('11. Method sort \n', angka3.join(', '), '\n=>',
 angka3.sort(function(a,b) {
     return a-b;
 }).join(', '));
+
+// 9. filter & find
+var angka3 = [20,8,5,4,7,10,6,1,3,2];
+var angka4 = angka3.filter(function(e) {
+    return e > 5;
+});
+console.log('12. Method Filter \n', angka4.sort(function(a,b) {
+    return a-b;
+}).join(', '));
+var angka5 = angka3.find(function(e) {
+    return e > 5;
+});
+console.log('12. Method Find\n', angka5);
