@@ -21,7 +21,13 @@ Latihan ini dibuat berdasarkan hasil implementasi dari video **Dasar Pemrograman
 - declaration
 - expression
 - array
-- manipulasi array
+- **manipulasi array**
+  - length
+  - join
+  - push & pop
+  - shift & unshift
+  - splice & slice
+  - foreach & map
 
 Terima kasih, semoga bermanfaat.
 
