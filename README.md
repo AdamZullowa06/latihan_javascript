@@ -29,6 +29,7 @@ Latihan ini dibuat berdasarkan hasil implementasi dari video **Dasar Pemrograman
   - splice & slice
   - foreach & map
   - sort
+  - filter & find
 
 Terima kasih, semoga bermanfaat.
 
