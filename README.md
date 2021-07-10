@@ -31,6 +31,7 @@ Latihan ini dibuat berdasarkan hasil implementasi dari video **Dasar Pemrograman
   - sort
   - filter & find
 - angkot (program pengelolaan penumpang)
+- object
 
 Terima kasih, semoga bermanfaat.
 
