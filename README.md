@@ -32,6 +32,7 @@ Latihan ini dibuat berdasarkan hasil implementasi dari video **Dasar Pemrograman
   - filter & find
 - angkot (program pengelolaan penumpang)
 - object
+- object2
 
 Terima kasih, semoga bermanfaat.
 
