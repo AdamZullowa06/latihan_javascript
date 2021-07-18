@@ -33,6 +33,7 @@ Latihan ini dibuat berdasarkan hasil implementasi dari video **Dasar Pemrograman
 - angkot (program pengelolaan penumpang)
 - object
 - object2
+- object3
 
 Terima kasih, semoga bermanfaat.
 
