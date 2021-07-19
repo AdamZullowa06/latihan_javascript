@@ -34,6 +34,7 @@ Latihan ini dibuat berdasarkan hasil implementasi dari video **Dasar Pemrograman
 - object
 - object2
 - object3
+- angkot7
 
 Terima kasih, semoga bermanfaat.
 
